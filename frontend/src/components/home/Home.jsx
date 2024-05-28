@@ -12,6 +12,12 @@ const versionText = VERSION;
 const logoBgImg = `url('${PUBLIC_URL}/logo-negative.png')`;
 const blogPosts = [
   {
+    title: "IntelOwl: Release v6",
+    subText: "Certego Blog: v6 Announcement",
+    date: "28th March 2024",
+    link: "https://www.certego.net/blog/intelowl-six-release/",
+  },
+  {
     title: "IntelOwl: Release v4.0.0",
     subText: "Certego Blog: v4.0.0 Announcement",
     date: "1st July 2022",
